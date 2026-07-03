@@ -49,7 +49,6 @@
 ├── results/                         # 自动生成的成果输出文件夹
 │   ├── results.json                 # 实验全量指标数据库 (JSON 序列化)
 │   ├── experiment_report.md         # 自动格式化的对比报告 Markdown 表格
-│   ├── 期末大论文写作大纲框架.md     # 自动生成的学术大纲模板 (方便论文写作)
 │   ├── overfitting_comparison.png   # 训练集 vs 测试集过拟合对比图
 │   ├── speed_comparison.png         # 推理吞吐率 (Log-scale FPS) 柱状图
 │   ├── robustness_comparison.png    # 高斯/椒盐/屏蔽多强度噪声精度衰减折线图
