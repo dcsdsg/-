@@ -1,0 +1,18 @@
+Paper [1] ID: http://arxiv.org/abs/2307.07863v1
+Title: Benchmarking the Effectiveness of Classification Algorithms and SVM Kernels for Dry Beans
+Year: 2023-07-15T18:13:29Z
+Authors: Anant Mehta, Prajit Sengupta, Divisha Garg, Harpreet Singh, Yosi Shacham Diamand
+Abstract: Plant breeders and agricultural researchers can increase crop productivity by identifying desirable features, disease resistance, and nutritional content by analysing the Dry Bean dataset. This study analyses and compares different Support Vector Machine (SVM) classification algorithms, namely linear, polynomial, and radial basis function (RBF), along with other popular classification algorithms. The analysis is performed on the Dry Bean Dataset, with PCA (Principal Component Analysis) conducted as a preprocessing step for dimensionality reduction. The primary evaluation metric used is accuracy, and the RBF SVM kernel algorithm achieves the highest Accuracy of 93.34%, Precision of 92.61%, Recall of 92.35% and F1 Score as 91.40%. Along with adept visualization and empirical analysis, this study offers valuable guidance by emphasizing the importance of considering different SVM algorithms for complex and non-linear structured datasets.
+
+Paper [2] ID: http://arxiv.org/abs/2408.01244v1
+Title: Automated Classification of Dry Bean Varieties Using XGBoost and SVM Models
+Year: 2024-08-02T13:05:33Z
+Authors: Ramtin Ardeshirifar
+Abstract: This paper presents a comparative study on the automated classification of seven different varieties of dry beans using machine learning models. Leveraging a dataset of 12,909 dry bean samples, reduced from an initial 13,611 through outlier removal and feature extraction, we applied Principal Component Analysis (PCA) for dimensionality reduction and trained two multiclass classifiers: XGBoost and Support Vector Machine (SVM). The models were evaluated using nested cross-validation to ensure robust performance assessment and hyperparameter tuning. The XGBoost and SVM models achieved overall correct classification rates of 94.00% and 94.39%, respectively. The results underscore the efficacy of these machine learning approaches in agricultural applications, particularly in enhancing the uniformity and efficiency of seed classification. This study contributes to the growing body of work on precision agriculture, demonstrating that automated systems can significantly support seed quality control and crop yield optimization. Future work will explore incorporating more diverse datasets and advanced algorithms to further improve classification accuracy.
+
+Paper [3] ID: http://arxiv.org/abs/1905.00336v1
+Title: Bean Split Ratio for Dry Bean Canning Quality and Variety Analysis
+Year: 2019-05-01T14:52:01Z
+Authors: Yunfei Long, Amber Bassett, Karen Cichy, Addie Thompson, Daniel Morris
+Abstract: Splits on canned beans appear in the process of preparation and canning. Researchers are studying how they are influenced by cooking environment and genotype. However, there is no existing method to automatically quantify or to characterize the severity of splits. To solve this, we propose two measures: the Bean Split Ratio (BSR) that quantifies the overall severity of splits, and the Bean Split Histogram (BSH) that characterizes the size distribution of splits. We create a pixel-wise segmentation method to automatically estimate these measures from images. We also present a bean dataset of recombinant inbred lines of two genotypes, use the BSR and BSH to assess canning quality, and explore heritability of these properties.
+

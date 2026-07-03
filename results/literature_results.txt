@@ -1,0 +1,38 @@
+=== Querying arXiv API for 'Dry Bean' ===
+Found 6 papers in arXiv.
+
+[1] Title: Benchmarking the Effectiveness of Classification Algorithms and SVM Kernels for Dry Beans
+    Year: 2023
+    Authors: Anant Mehta, Prajit Sengupta, Divisha Garg, Harpreet Singh, Yosi Shacham Diamand
+    URL: http://arxiv.org/abs/2307.07863v1
+    Abstract: Plant breeders and agricultural researchers can increase crop productivity by identifying desirable features, disease resistance, and nutritional content by analysing the Dry Bean dataset. This study analyses and compares different Support Vector Machine (SVM) classification algorithms, namely linea...
+
+[2] Title: Automated Classification of Dry Bean Varieties Using XGBoost and SVM Models
+    Year: 2024
+    Authors: Ramtin Ardeshirifar
+    URL: http://arxiv.org/abs/2408.01244v1
+    Abstract: This paper presents a comparative study on the automated classification of seven different varieties of dry beans using machine learning models. Leveraging a dataset of 12,909 dry bean samples, reduced from an initial 13,611 through outlier removal and feature extraction, we applied Principal Compon...
+
+[3] Title: Bean Split Ratio for Dry Bean Canning Quality and Variety Analysis
+    Year: 2019
+    Authors: Yunfei Long, Amber Bassett, Karen Cichy, Addie Thompson, Daniel Morris
+    URL: http://arxiv.org/abs/1905.00336v1
+    Abstract: Splits on canned beans appear in the process of preparation and canning. Researchers are studying how they are influenced by cooking environment and genotype. However, there is no existing method to automatically quantify or to characterize the severity of splits. To solve this, we propose two measu...
+
+[4] Title: An Investigation into Distance Measures in Cluster Analysis
+    Year: 2024
+    Authors: Zoe Shapcott
+    URL: http://arxiv.org/abs/2404.13664v1
+    Abstract: This report provides an exploration of different distance measures that can be used with the $K$-means algorithm for cluster analysis. Specifically, we investigate the Mahalanobis distance, and critically assess any benefits it may have over the more traditional measures of the Euclidean, Manhattan ...
+
+[5] Title: A Unified MDL-based Binning and Tensor Factorization Framework for PDF Estimation
+    Year: 2025
+    Authors: Mustafa Musab, Joseph K. Chege, Arie Yeredor, Martin Haardt
+    URL: http://arxiv.org/abs/2504.18686v2
+    Abstract: Reliable density estimation is fundamental for numerous applications in statistics and machine learning. In many practical scenarios, data are best modeled as mixtures of component densities that capture complex and multimodal patterns. However, conventional density estimators based on uniform histo...
+
+[6] Title: Cumulative Link Mixed-Effects Models in the Service of Remote Sensing Crop Progress Monitoring
+    Year: 2023
+    Authors: Ioannis Oikonomidis, Samis Trevezas
+    URL: http://arxiv.org/abs/2308.14520v1
+    Abstract: This study introduces an innovative Cumulative Link Modeling approach to monitor crop progress over large areas using remote sensing data. The models utilize the predictive attributes of calendar time, thermal time, and the Normalized Difference Vegetation Index (NDVI). Two distinct issues are tackl...
